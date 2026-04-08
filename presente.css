@@ -254,10 +254,6 @@ body {
   text-align: center;
   box-shadow: 0 0 10px #ff4b6e;   /* brilho rosa */
 }
-.botão{
-  background-color: #ff4b6e;
-  color: white;
-  border: 2px solid #fff;
-  padding: 12px 25px;
-  border-radius: 20px;
+strong{
+  color: #ff0000;
 }
